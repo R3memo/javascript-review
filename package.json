@@ -1,8 +1,9 @@
 {
   "name": "javascript-review",
   "version": "1.0.0",
-  "description": "Sample JavaScript porjetc for reviewing OOP",
+  "description": "Sample JavaScript porjetc for reviewing OOP and DDD concepts",
   "main": "src/index.js",
+  "type": "module",
   "scripts": {
     "start": "node src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
